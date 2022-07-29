@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Jaya Shankar](https://kamilmysliwiec.com)
+- Author - [Jaya Shankar](https://github.com/jayashankar987)
 - Website - [jayashankar987](https://www.linkedin.com/in/jaya-shankar-boya-91844217/)
 - Twitter - [jayashankar987](https://twitter.com/jayashankar987)
 - Nest Twitter - [@nestframework](https://twitter.com/nestframework)
